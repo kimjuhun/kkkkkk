@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<table style="border:1px gray solid;">
+<tr>
+ <td>border-collapse:collapse;</td>
+</tr>
+<tr><td>김주훈</td></tr>
+<tr><td>111</td></tr>
+
+</table>
